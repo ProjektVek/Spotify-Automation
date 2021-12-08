@@ -1,0 +1,9 @@
+botcity-framework-web>=0.1.6
+botcity-maestro-sdk>=0.1.2
+# Uncomment to use botcity-utils
+#botcity-utils>=0.1.2
+# Uncomment to use botcity-crawler-plugin
+#botcity-crawler-plugin
+
+python-dotenv
+python-decouple

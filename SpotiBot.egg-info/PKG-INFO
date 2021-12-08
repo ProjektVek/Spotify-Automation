@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: SpotiBot
+Version: 1.0
+Summary: A bot for automating Spotify
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# SpotiBot: Spotify Automation / Automaçao do Spotify
+### by Victor "VeK" Ferreira 
+<br>
+
+### A bot for automating Spotify Web / Um bot para automatizar Spotify Web
+<br>
+
+### Observations / Observaçoes:
+
+- I don't added support for English Spotify Yet / Eu ainda nao adicionei suporte para o Spotify em Ingles
+- Probably you will need to setup a few things to run, like create .env file with your Spotify credentials / Provavelmente voce tera que ajustar algumas coisas para rodar, como criar arquivo .env com suas credenciais(login) do Spotify
+
+### Whats it does? / O que ele faz?:
+
+This is a automation code (bot) for automating spotify web, using python and BotCity tools. It mutes ads automatically when they start to playing, and try to skip them when possible.
+I will be adding another functions if there is another thing that i would like to do with this bot.
+<br>
+Isso e um codigo para automacao (bot) do spotify web, utilizando python e as ferramentas da BotCity. Ele muta os anuncios automaticamente quando eles começam a tocar, e tenta pular quando for possivel.
+Eu estarei adicionando outras funçoes caso haja outras coisas que eu gostaria de fazer com esse bot.
+
+- Enter Open Spotify Website and tries to Login (You have to create a .env file with your credentials, more details below) / Entra no site Open Spotify e tenta Logar (Voce tem que criar um arquivo .env com suas credenciais(Login) do Spotify, mais detalhes abaixo)
+- After logged in, tries to identify when an ad is running, and when detected, mutes Spotify volume and tries to skip the ad. / Depois de logado, tenta identificar quando um anuncio esta sendo executado, e quando detectado, muta o volume do Spotify e tenta pular o anuncio
+
+### Why I did this? / Porque eu fiz isso?:
+
+The spotify free on desktop(/web) is already good enough for me, but i always have to mute and skip ads manually. Then I have the Idea to create a bot to do this for me automatically. I know i wanted to do using Python, and then, someday before I started the project, I watched a BotCity Workshop from Gabriel Archanjo (BotCity CTO) using BotCity tools to automate Web and Desktop systems. In that moment, I think it would be the perfect tool for the task.
+<br>
+A versao gratis do spotify desktop(/web) ja e suficiente pra mim, porem eu sempre tenho que mutar e pular os anuncios manualmente. Entao eu tive a ideia de criar um bot para fazer isso para mim automaticamente. Eu sabia que eu queria fazer usando Python, e entao, algum dia antes de comecar o projeto, eu assisti um Workshop da BotCity (DoWhile 2021) do Gabriel Archanjo (CTO da BotCity) utilizando as ferramentas da BotCity para automatizar Sistemas Web e Desktop. Naquele momento, eu acreditei que elas seriam as ferramentas perfeitas para a tarefa.
+
+### Technologies / Tecnologias:
+
+This project will be made primarily in Python, with BotCity automation tools
+
+- Python
+- BotCity Framework Web - Python
+
+### Links:
+
+- #### Python
+  - https://www.python.org/
+
+- #### BotCity Resources
+    - https://www.botcity.dev/
+    - https://botcity.atlassian.net/wiki/spaces/CBG/overview
+    - https://www.youtube.com/channel/UCMa1T08wvhxiG0rcm8Yh9Rw
+  
+- #### <a href="www.linkedin.com/in/victor-hugo-souza-ferreira"> My LinkedIn Profile / Meu perfil no Linkedin </a>  
+### Important things to make it run / Detalhes importantes para fazer funcionar:
+
+- I used Decouple Library to read .env files, where my login was stored / Eu usei a biblioteca Decouple para ler arquivos .env, onde meu login estava armazenado
+
