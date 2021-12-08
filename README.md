@@ -15,7 +15,7 @@
 
 This is a automation code (bot) for automating spotify web, using python and BotCity tools. It mutes ads automatically when they start to playing, and try to skip them when possible.
 I will be adding another functions if there is another thing that i would like to do with this bot. It does automatic login on Spotify too. 
-<br>
+<br><br>
 Isso é um código para automação (bot) do spotify web, utilizando python e as ferramentas da BotCity. Ele muta os anúncios automaticamente quando eles começam a tocar, e tenta pular quando for possível.
 Eu estarei adicionando outras funções caso haja outras coisas que eu gostaria de fazer com esse bot. Ele também realiza Login automático.
 
@@ -25,7 +25,7 @@ Eu estarei adicionando outras funções caso haja outras coisas que eu gostaria 
 ### Why I did this? / Porque eu fiz isso?:
 
 The spotify free on desktop(/web) is already good enough for me, but i always have to mute and skip ads manually. I have the idea to create a bot to do this for me automatically. I know i wanted to do using Python, and then, someday before I started the project, I watched a BotCity Workshop from Gabriel Archanjo (BotCity CTO) using BotCity tools to automate Web and Desktop systems. In that moment, I think it would be the perfect tool for the task. 
-<br>
+<br><br>
 A versão gratuita do spotify desktop(/web) já e suficiente pra mim, porém eu sempre tenho que mutar e pular os anúncios manualmente. Então eu tive a ideia de criar um bot para fazer isso para mim automaticamente. Eu sabia que eu queria fazer usando Python, e então, certo dia antes de comecar o projeto, eu assisti um Workshop da BotCity (DoWhile 2021) do Gabriel Archanjo (CTO da BotCity) utilizando as ferramentas da BotCity para automatizar Sistemas Web e Desktop. Naquele momento, eu acreditei que elas seriam as ferramentas perfeitas para a tarefa.
 
 ### Technologies / Tecnologias:
