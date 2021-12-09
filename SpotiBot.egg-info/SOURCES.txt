@@ -1,3 +1,4 @@
+LICENSE
 MANIFEST.in
 README.md
 VERSION
@@ -22,8 +23,11 @@ SpotiBot/resources/maximize_volume.png
 SpotiBot/resources/mute.png
 SpotiBot/resources/muted.png
 SpotiBot/resources/reduce_volume.png
+SpotiBot/resources/remote_icon.png
 SpotiBot/resources/skip.png
 SpotiBot/resources/skip_blocked.png
 SpotiBot/resources/spotify_ad.png
 SpotiBot/resources/start.png
 SpotiBot/resources/unmute.png
+SpotiBot/resources/volume_bar.png
+SpotiBot/resources/volume_mid.png
